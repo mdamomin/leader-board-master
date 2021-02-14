@@ -1,0 +1,47 @@
+body{
+    background-color: #F3F1FF;
+}
+.nav-img img{
+    width: 24px;
+}
+.player_section img{
+    width: 4em;
+}
+.player_section, .blog_section, .course_section{
+    background-color: #FFFFFF;
+    
+}
+.player_section{
+    border-radius: 10px 10px 0px 0px;
+}
+.line{
+    border-bottom: 3px solid #D1D1D1;
+    width: 94%;
+
+}
+.blog_section{
+    border-radius: 0px 0px 10px 10px;
+}
+.course_section{
+    border-radius: 10px 10px 10px 10px;
+}
+.player_section h2, .blog_section h2{
+    color: #BAB2FF;
+}
+
+.blog_section img{
+    width: 8em;
+    height: 6em;
+}.card{
+    border: none;
+}
+.card_footer img{
+
+
+}
+.star{
+     width: 6em;
+}
+.clock{
+    width: 30px;
+}
